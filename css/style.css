@@ -1,0 +1,17 @@
+body{
+    /* background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%); */
+    background: linear-gradient(269.16deg, #C2A0FD 5%, #9867F0 35%, #3BF0E4 80%, #33CE43 105.13%, #B2F4B6 123.24%);
+}
+.logo{
+   display: flex;
+   justify-content: center;
+   margin-top: 3rem;
+}
+.logo img{
+    width: 5rem;
+}
+
+.container{
+    max-width: 955px;
+    background-color: red;
+}
